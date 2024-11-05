@@ -1,3 +1,3 @@
-#Aplicación para Gestión de Libros (SPRING BOOT | POSTGRESQL | API GUTENDEX)
+# Aplicación para Gestión de Libros (SPRING BOOT | POSTGRESQL | API GUTENDEX)
 Desarrollé un sistema de API REST utilizando Java 17, Spring Boot 6 y una base de datos relacional PostgreSQL, que permite registrar y gestionar información de libros, extrayendo datos de la API Gutendex y almacenándolos en mi propia base de datos. Las funcionalidades incluyen la búsqueda de libros por título, facilitando el acceso a la información relevante; la generación de listados de libros y autores almacenados; y el filtrado de resultados según el idioma de los libros. Utilicé Hibernate/JPA para la gestión eficiente de la persistencia de datos, garantizando un acceso ágil a la base de datos. La API permite realizar operaciones CRUD (creación, lectura, actualización y eliminación de registros), y la interacción se lleva a cabo a través de la terminal, sin una interfaz gráfica.
 
